@@ -1,2 +1,2 @@
 # RuffierIndex
-That's educational project, do not use it
+This is educational project, don't use it
